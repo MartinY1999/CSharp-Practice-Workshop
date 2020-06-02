@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayManipulator", "ArrayManipulator\ArrayManipulator.csproj", "{F104BBB9-0A6C-48E1-A346-096C2BE931E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShmoogleCounter", "ShmoogleCounter\ShmoogleCounter.csproj", "{1CE3B279-6299-454D-BE33-679DFB30DCCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTransfer", "DataTransfer\DataTransfer.csproj", "{6217C217-DD5E-4199-B75D-35266B7D97E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tagram", "Tagram\Tagram.csproj", "{D41BDF73-88B0-46CA-AAAF-0CE08D258CC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Miner", "Miner\Miner.csproj", "{44B6FA9E-2E7E-42AB-9B42-128E498FAD26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CupsAndBottles", "CupsAndBottles\CupsAndBottles.csproj", "{BBE96724-7999-4227-B358-6EFE950C6927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F104BBB9-0A6C-48E1-A346-096C2BE931E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F104BBB9-0A6C-48E1-A346-096C2BE931E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F104BBB9-0A6C-48E1-A346-096C2BE931E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F104BBB9-0A6C-48E1-A346-096C2BE931E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE3B279-6299-454D-BE33-679DFB30DCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE3B279-6299-454D-BE33-679DFB30DCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE3B279-6299-454D-BE33-679DFB30DCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE3B279-6299-454D-BE33-679DFB30DCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6217C217-DD5E-4199-B75D-35266B7D97E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6217C217-DD5E-4199-B75D-35266B7D97E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6217C217-DD5E-4199-B75D-35266B7D97E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6217C217-DD5E-4199-B75D-35266B7D97E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D41BDF73-88B0-46CA-AAAF-0CE08D258CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D41BDF73-88B0-46CA-AAAF-0CE08D258CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D41BDF73-88B0-46CA-AAAF-0CE08D258CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D41BDF73-88B0-46CA-AAAF-0CE08D258CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B6FA9E-2E7E-42AB-9B42-128E498FAD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B6FA9E-2E7E-42AB-9B42-128E498FAD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B6FA9E-2E7E-42AB-9B42-128E498FAD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B6FA9E-2E7E-42AB-9B42-128E498FAD26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE96724-7999-4227-B358-6EFE950C6927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE96724-7999-4227-B358-6EFE950C6927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE96724-7999-4227-B358-6EFE950C6927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE96724-7999-4227-B358-6EFE950C6927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C977AAC4-0998-4DEB-A621-EC29CC252EE0}
+	EndGlobalSection
+EndGlobal
